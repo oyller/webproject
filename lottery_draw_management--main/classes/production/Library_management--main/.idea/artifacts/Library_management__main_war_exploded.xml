@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+    <artifact type="exploded-war" name="Library_management--main:war exploded">
+        <output-path>$PROJECT_DIR$/classes/artifacts/sys</output-path>
+        <root id="root">
+            <element id="directory" name="WEB-INF">
+                <element id="directory" name="classes">
+                    <element id="module-output" name="Library_management--main" />
+                </element>
+            </element>
+            <element id="javaee-facet-resources" facet="Library_management--main/web/Web" />
+        </root>
+    </artifact>
+</component>
